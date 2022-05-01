@@ -1,6 +1,7 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/42464602/166157502-4721a78f-6b5e-49a0-9aa3-261abe265386.png"></p>
 
-![](https://user-images.githubusercontent.com/42464602/166157476-ad636c87-ab4b-4ad8-a6a6-a5a9141b14f7.png)
+<p align="center"><img src="https://user-images.githubusercontent.com/42464602/166157476-ad636c87-ab4b-4ad8-a6a6-a5a9141b14f7.png"></p>
+
 
 # 🍏 WWDC2022_RGBColorChecker_README
 
