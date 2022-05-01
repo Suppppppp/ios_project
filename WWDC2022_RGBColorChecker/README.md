@@ -1,10 +1,14 @@
-# WWDC2022_RGBColorChecker_README
+<p align="center"><img src="https://user-images.githubusercontent.com/42464602/166157502-4721a78f-6b5e-49a0-9aa3-261abe265386.png"></p>
+
+![](https://user-images.githubusercontent.com/42464602/166157476-ad636c87-ab4b-4ad8-a6a6-a5a9141b14f7.png)
+
+# 🍏 WWDC2022_RGBColorChecker_README
 
 This is the first app I made.<br>
 It is Swift Playground app (Xcode ver.) for WWDC 2022 .<br>
 This is made with SwiftUI
 
-## RGB Color Checker Intro.
+## 🎨 RGB Color Checker Intro.
 
 There are 3 functions that I wanted to create when I first made this app.  
 1. Checking RGB Values on Image in your gallery and picture taken with the camera 
