@@ -14,5 +14,4 @@ Here is for Studying ios
 1. [WWDC 2022 RGB Checker](https://github.com/Suppppppp/ios_project/tree/main/WWDC2022_RGBColorChecker) <br>It is Swift Playground app (Xcode ver.) for WWDC 2022 .<br> I won the prize
 
 2. [Neologism Search App](https://github.com/Suppppppp/Neologism_SeSACWeek1/tree/main)
-It's an app where you can find out the meaning by searching for Neologism
-<details><summary> Neologism Search App demo </summary><div markdown="1"><p align= "center"><img width="50%" src="https://user-images.githubusercontent.com/42464602/179062913-4bcb42b5-51c2-4dad-8bfd-37fa604e6748.gif"/></div></details>
+It's an app where you can find out the meaning by searching for Neologism<br><details><summary> Neologism Search App demo </summary><div markdown="1"><p align= "center"><img width="50%" src="https://user-images.githubusercontent.com/42464602/179062913-4bcb42b5-51c2-4dad-8bfd-37fa604e6748.gif"/></div></details>
