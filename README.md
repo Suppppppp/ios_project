@@ -20,4 +20,6 @@ It's an app where you can find out the meaning by searching for Neologism<br><de
 -->
 2. [Neologism Search App](https://github.com/Suppppppp/Neologism_SeSACWeek1/tree/main)<br>
 It's an app where you can find out the meaning by searching for Neologism<br> Neologism Search App demo <p align= "center"><img width="20%" src="https://user-images.githubusercontent.com/42464602/179065853-1a12953c-f775-4cf0-bf95-ff803248d1b2.gif"/>
-  
+
+3. [Tamagochi App](https://github.com/Suppppppp/Tamagochi)<br>
+It's a game to raise Tamagotchi while feeding them with water.<br> Tamagochi App Demo <p align= "center"><img width="20%" src="https://user-images.githubusercontent.com/42464602/204670381-0cae5af4-7313-42f7-9631-7084e6fedfea.gif"/>
