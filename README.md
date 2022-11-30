@@ -7,7 +7,7 @@ Here is for Studying ios
 1. [WWDC 2022 RGB Checker](https://github.com/Suppppppp/ios_project/tree/main/project/WWDC2022_RGBColorChecker) <br>It is Swift Playground app (Xcode ver.) for WWDC 2022<br>I won the prize.<details><summary> RGB Checker demo </summary><div markdown="1"><p align= "center"><img width="50%" src="https://user-images.githubusercontent.com/42464602/166156937-38b4a2ed-a95f-44ed-b611-4204e449038a.gif"/></div></details>
 
 -->
-1. [WWDC 2022 RGB Checker](https://github.com/Suppppppp/ios_project/tree/main/project/WWDC2022_RGBColorChecker) <br>It is Swift Playground app (Xcode ver.) for WWDC 2022<br>I won the prize.<br> RGB Checker demo <br><p align= "center"><img width="20%" src="https://user-images.githubusercontent.com/42464602/166156937-38b4a2ed-a95f-44ed-b611-4204e449038a.gif"/>
+1. [WWDC 2022 RGB Checker](https://github.com/Suppppppp/ios_project/tree/main/project/WWDC2022_RGBColorChecker) <br>It is Swift Playground app (Xcode ver.) for WWDC 2022<br>I won the prize.<br> RGB Checker demo <br><p align= "center"><img width="25%" src="https://user-images.githubusercontent.com/42464602/166156937-38b4a2ed-a95f-44ed-b611-4204e449038a.gif"/>
 
 <br>
 
@@ -19,7 +19,7 @@ Here is for Studying ios
 It's an app where you can find out the meaning by searching for Neologism<br><details><summary> Neologism Search App demo </summary><div markdown="1"><p align= "center"><img width="50%" src="https://user-images.githubusercontent.com/42464602/179065853-1a12953c-f775-4cf0-bf95-ff803248d1b2.gif"/></div></details>
 -->
 2. [Neologism Search App](https://github.com/Suppppppp/Neologism_SeSACWeek1/tree/main)<br>
-It's an app where you can find out the meaning by searching for Neologism<br> Neologism Search App demo <p align= "center"><img width="20%" src="https://user-images.githubusercontent.com/42464602/179065853-1a12953c-f775-4cf0-bf95-ff803248d1b2.gif"/>
+It's an app where you can find out the meaning by searching for Neologism<br> Neologism Search App demo <p align= "center"><img width="25%" src="https://user-images.githubusercontent.com/42464602/179065853-1a12953c-f775-4cf0-bf95-ff803248d1b2.gif"/>
 
 3. [Tamagochi App](https://github.com/Suppppppp/Tamagochi)<br>
-It's a game to raise Tamagotchi while feeding them with water.<br> Tamagochi App Demo <p align= "center"><img width="20%" src="https://user-images.githubusercontent.com/42464602/204670381-0cae5af4-7313-42f7-9631-7084e6fedfea.gif"/>
+It's a game to raise Tamagotchi while feeding them with water.<br> Tamagochi App Demo <p align= "center"><img width="25%" src="https://user-images.githubusercontent.com/42464602/204670381-0cae5af4-7313-42f7-9631-7084e6fedfea.gif"/>
